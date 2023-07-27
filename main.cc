@@ -1,5 +1,6 @@
 static llvm::cl::OptionCategory MatcherCategory("Matcher");
 
+using namespace llvm;
 
 int main(int argc, const char **argv) {
   google::InitGoogleLogging(argv[0]);
