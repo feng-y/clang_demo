@@ -1,3 +1,4 @@
+#include <iostream>
 static llvm::cl::OptionCategory MatcherCategory("Matcher");
 
 using namespace llvm;
