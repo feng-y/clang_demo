@@ -41,7 +41,7 @@ PointerAlignment: Left
 ReferenceAlignment: Left
 BinPackArguments: false
 BinPackParameters: false
-FixNamespaceComments:true
+FixNamespaceComments: true
 AlignConsecutiveDeclarations:  false
 AlwaysBreakBeforeMultilineStrings: true
 AllowAllParametersOfDeclarationOnNextLine: true
@@ -49,8 +49,8 @@ AlignConsecutiveAssignments: false
 AlignTrailingComments: true
 MaxEmptyLinesToKeep: 1
 
-# clang-format 3.9+
-SortIncludes: false
-BreakStringLiterals: false
-ReflowComments: true
-UseTab: Never
+## clang-format 3.9+
+#SortIncludes: false
+#BreakStringLiterals: false
+#ReflowComments: true
+#UseTab: Never
