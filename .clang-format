@@ -50,7 +50,7 @@ AlignTrailingComments: true
 MaxEmptyLinesToKeep: 1
 
 ## clang-format 3.9+
-#SortIncludes: false
-#BreakStringLiterals: false
-#ReflowComments: true
-#UseTab: Never
+SortIncludes: false
+BreakStringLiterals: false
+ReflowComments: true
+UseTab: Never
