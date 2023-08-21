@@ -38,7 +38,7 @@ AlwaysBreakTemplateDeclarations: Yes
 DerivePointerAlignment: false
 PointerAlignment: Left
 
-ReferenceAlignment: Left
+# ReferenceAlignment: Left
 BinPackArguments: false
 BinPackParameters: false
 FixNamespaceComments: true
